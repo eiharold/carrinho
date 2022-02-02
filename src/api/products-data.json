@@ -1,0 +1,46 @@
+{
+    "items": [
+        {
+            "id": 1,
+            "name": "SmartWatch",
+            "image": "produto01.jpeg",
+            "price": 1999.00,
+            "description": "Relógio inteligente. O poder de um smartphone, sempre com você."
+        },
+        {
+            "id": 2,
+            "name": "Fones de Ouvido",
+            "image": "produto02.jpeg",
+            "price": 240.00,
+            "description": "Fones com qualidade profissional e isolamento acústico."
+        },
+        {
+            "id": 3,
+            "name": "Óculos de sol",
+            "image": "produto03.jpeg",
+            "price": 300.00,
+            "description": "Óculos com proteção UVA/UVB e um belo design."
+        },
+        {
+            "id": 4,
+            "name": "Câmera Polaroid",
+            "image": "produto04.jpeg",
+            "price": 699.00,
+            "description": "Fotos impressas na hora! Divirta-se com seus amigos."
+        },
+        {
+            "id": 5,
+            "name": "Câmera Digital",
+            "image": "produto05.jpeg",
+            "price": 2790.00,
+            "description": "Câmera Digital profissional, com kit de lentes e função manual."
+        },
+        {
+            "id": 6,
+            "name": "Fones sem fio",
+            "image": "produto06.jpeg",
+            "price": 1090.00,
+            "description": "Fones de ouvido bluetooth, com tecnologia de conexão automática."
+        }
+    ]
+}
